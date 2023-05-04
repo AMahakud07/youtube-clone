@@ -1,4 +1,5 @@
 # youtube-clone
-Youtube clone using REACT ,TAILWIND CSS &amp; RapidAPI
+Youtube clone using REACT ,TAILWIND CSS & RapidAPI
 
-do it
+Features :
+
