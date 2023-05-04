@@ -2,5 +2,6 @@
 Youtube clone using REACT ,TAILWIND CSS & RapidAPI
 
 Features :
-Search functionality
-Categories wise API call
+1. Search functionality
+2. Categories wise API call
+3. Video Page
